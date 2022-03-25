@@ -1,0 +1,76 @@
+Question 1
+The flow of costs through the financial statements is shown below.
+Flowchart, balance sheet, and income statement showing the ramifications of product and period costs.A balance sheet with two columns: assets and liabilities. Under assets is Beginning Balance of Inventory, with + Increase and - Decrease below. After - Decrease is a horizontal line separating it from Ending Balance of Inventory. Under liabilities there is only one item, Owners' Equity, which is parallel with + Increase in the asset column. To the left of the balance sheet is a flowchart showing various costs. Direct material, direct labor, and manufacturing overhead flow into "Product Costs", which in turn flows into + Increase, in the balance sheet under assets. A second group of costs, non-manufacturing costs, flows into another "Period Costs." To the right of the balance sheet is a column labeled Income Statement, with two items in it. Cost of goods sold is parallel with - Decrease in the assets column, and the two are connected by an arrow going from left to right. The second item is operating expenses, which is connected to period costs in the flow chart on the left by another arrow going from left to right.
+In June, Company A incurs the following costs:
+Direct Material: $45,000
+Direct Labor: $30,000
+Manufacturing Overhead: $55,000
+Non-manufacturing Costs: $50,000
+How much is the increase in inventory during the month? (Assuming sales of inventory are not considered)
+ans - $130,000
+
+Question 2
+Shown below is the flow of costs through financial statements, with the flow through the inventory account broken down a bit further.
+Flowchart, balance sheet, and income statement showing the ramifications of various costs.The flowchart is divided into two sections: balance sheet and income statement. Starting on the left with the balance sheet section, "purchase" is connected by an arrow going left to right with section showing balance of raw materials. The section starts at the top with "beginning balance of raw materials"; underneath is + increase, then - decrease, with a horizontal line below separating them from "ending balance of raw materials." Purchase on the left is connected to + increase. To the right is a work-in-process section exactly the same as the raw materials section, except it reads "beginning balance of work-in-process" and "ending balance of work-in-process." - Decrease in the raw materials section is connected an arrow going from left to right labelled direct material to + increase in the work-in-process section. The arrow labelled direct material has a dotted line intersecting it labeled direct labor and manufacturing overhead. To the right of the work-in-process section is another identical section except it reads "beginning balance of finished goods" and "ending balance of finished goods." - decrease from the work-in-process section is connected by an arrow going from left to right to + increase in the finished goods section. The balance sheet area ends there, separated by a vertical line from the income statement column to the right. The income statement column has only one item, cost of goods sold, which is connected to - decrease in the finished goods section by an arrow going from left to right. 
+If the beginning balances of raw materials, work-in-process, and finished goods are all 0, and the ending balances of RM, WIP and FG are all $30,000, which of the following statements is correct?
+ans - If product costs are $75,000, then $15,000 of finished goods are sold 
+
+Question 3
+T-Shirt Co. makes two products: A and B. In the cutting department, budgeted information is as follows:
+Budgeted manufacturing overhead: $400,000
+Budgeted machine hours: 80,000 
+Budgeted units produced: 50,000
+The company allocates overhead based on machine hours. The actual number of machine hours spent on product B is 30,000 and 10,000 units of product B are produced. How much is the manufacturing overhead of product B in the cutting department?
+wrong ans - $230,000
+exlaination - Incorrect. If you chose this option, you probably calculated the overhead of product B using units produced as the allocation base, then using machine hours as the allocation base, and adding the two overhead together. You should focus on using machine hours only, as the company does. You may review by returning to the "Allocating Overhead Costs" video. 
+
+Question 4
+Running Shorts Co. makes two products: A and B. In the folding department, budgeted information is as follows:
+Budgeted indirect labor costs in the workshop: $150,000
+Budgeted depreciation expenses of equipment: $50,000
+Budgeted direct labor costs: $100,000 
+Budgeted units produced: 50,000
+The company allocates indirect labor costs based on direct labor costs and allocates depreciation expenses of equipment based on units produced. The actual direct labor costs for product B are $40,000 and 10,000 units of product B are produced. How much is the manufacturing overhead of product B in the folding department?
+ans - $70000
+
+Question 5
+Elevator Co. makes two product models, A and B, and provides both installation and inspection services for its customers. Budgeted information is as follows:
+The company uses a departmental method to allocate overhead in each of the two cost pools - installation and inspection. How much overhead per unit is allocated to product B if the company uses direct labor hours as the allocation base? 
+ans - $145
+
+Question 6
+Sensor Co. makes two products: A and B. Each product goes through the assembly department and the testing department. Budgeted information is as follows:
+The company allocates overhead incurred in the assembly department based on direct labor dollars and allocates overhead in the testing department based on machine hours. How much manufacturing overhead is allocated to product B?
+wrong ans - $10000 
+explaination - Incorrect. If you chose this option, you probably calculated the overhead in the assembly department only. You should include the overhead in the testing department for product B as well. You may review by returning to the "Designing Cost Allocation Systems" video. 
+
+Question 7
+The controller of Sensor Co., after taking Managerial Accounting, has decided to implement an ABC system in the assembly department. She identifies the following three cost pools and cost drivers:
+What is the allocation rate for the receiving and handling of materials?
+ans - $2000
+
+Question 8
+The controller of Sensor Co., after taking Managerial Accounting, has decided to implement an ABC system in the assembly department. She identifies the following three cost pools and cost drivers:
+What is the total overhead cost in the assembly department for product B?
+ans - $28500
+
+
+Question 9
+The controller of Sensor Co. has also decided to implement an ABC system in the testing department. She identifies the following three cost pools and cost drivers:
+What is the total overhead cost in the testing department for product A?
+ans - $33600
+
+Question10 
+Accounting firm XYZ provides audit, tax, and general accounting services. It estimates it will have 773 auditing, 500 taxation, and 1,000 other service engagements. The company uses an ABC system with the following three cost pools and cost drivers to allocate its indirect costs:
+How much total overhead cost will be allocated to other services?
+ans - $125000
+
+Question 11
+Accounting firm XYZ provides audit, tax, and general accounting services. It estimates it will have 773 auditing, 500 taxation, and 1,000 other service engagements. The company uses an ABC system with the following three cost pools and cost drivers to allocate its indirect costs:
+What is the overhead cost per engagement for tax services?
+ans - $437
+
+Question 12
+Company MN is a wholesale distributor. It uses an ABC system to analyze customer profitability for its small- and medium-sized retail customers. The cost pool, cost driver and other relevant information is shown below.
+What is the average total overhead cost per product sold to medium retailers? (Assuming every item sold requires certain involvement of customer service)
+ans - $2.15
